@@ -1,0 +1,1311 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "CMPBuildingsP05",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 143,
+				"Shape_Leng" : 151.361814343,
+				"Shape_Area" : 1353.22983288
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 149,
+				"Shape_Leng" : 413.052398081,
+				"Shape_Area" : 3662.09803047
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 150,
+				"Shape_Leng" : 413.052398081,
+				"Shape_Area" : 3662.09803047
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 153,
+				"Shape_Leng" : 0,
+				"Shape_Area" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 1,
+				"Shape_Leng" : 79.7953750801,
+				"Shape_Area" : 341.884132007
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 2,
+				"Shape_Leng" : 203.232996746,
+				"Shape_Area" : 1541.18703282
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 3,
+				"Shape_Leng" : 125.955339356,
+				"Shape_Area" : 704.072771962
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 4,
+				"Shape_Leng" : 139.515861729,
+				"Shape_Area" : 757.591851059
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 5,
+				"Shape_Leng" : 116.481825575,
+				"Shape_Area" : 584.010688623
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 6,
+				"Shape_Leng" : 73.9503858768,
+				"Shape_Area" : 340.223566109
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 7,
+				"Shape_Leng" : 136.549376036,
+				"Shape_Area" : 830.995667748
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 8,
+				"Shape_Leng" : 131.697850661,
+				"Shape_Area" : 865.055087744
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 9,
+				"Shape_Leng" : 295.8627742,
+				"Shape_Area" : 2715.76368533
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 10,
+				"Shape_Leng" : 156.487596393,
+				"Shape_Area" : 1224.05660449
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 11,
+				"Shape_Leng" : 180.983998022,
+				"Shape_Area" : 2044.95784829
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 12,
+				"Shape_Leng" : 100.052073909,
+				"Shape_Area" : 625.393264966
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 13,
+				"Shape_Leng" : 141.312131616,
+				"Shape_Area" : 1106.50466786
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 14,
+				"Shape_Leng" : 131.35909595,
+				"Shape_Area" : 592.573887497
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 15,
+				"Shape_Leng" : 88.8576321111,
+				"Shape_Area" : 471.193854356
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 16,
+				"Shape_Leng" : 108.743611255,
+				"Shape_Area" : 581.696931449
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 17,
+				"Shape_Leng" : 200.608558237,
+				"Shape_Area" : 1478.65135288
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 18,
+				"Shape_Leng" : 146.992256653,
+				"Shape_Area" : 969.499072263
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 19,
+				"Shape_Leng" : 252.82939464,
+				"Shape_Area" : 2179.81121076
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 20,
+				"Shape_Leng" : 89.420316921,
+				"Shape_Area" : 498.432645897
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 21,
+				"Shape_Leng" : 130.857084903,
+				"Shape_Area" : 1049.37426954
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 22,
+				"Shape_Leng" : 48.0688986384,
+				"Shape_Area" : 144.083933401
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 23,
+				"Shape_Leng" : 41.2546240792,
+				"Shape_Area" : 78.2247445486
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 25,
+				"Shape_Leng" : 60.7333664887,
+				"Shape_Area" : 185.664757217
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 26,
+				"Shape_Leng" : 86.8954091011,
+				"Shape_Area" : 437.470679784
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 28,
+				"Shape_Leng" : 54.7940219384,
+				"Shape_Area" : 168.242243151
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 29,
+				"Shape_Leng" : 44.7791218483,
+				"Shape_Area" : 115.608919482
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 30,
+				"Shape_Leng" : 98.3809367594,
+				"Shape_Area" : 437.685016556
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 31,
+				"Shape_Leng" : 156.035555187,
+				"Shape_Area" : 868.178481622
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 32,
+				"Shape_Leng" : 58.0073259116,
+				"Shape_Area" : 184.951894411
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 33,
+				"Shape_Leng" : 42.4554453194,
+				"Shape_Area" : 106.227266361
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 34,
+				"Shape_Leng" : 95.694483707,
+				"Shape_Area" : 378.807904362
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 35,
+				"Shape_Leng" : 71.2417831382,
+				"Shape_Area" : 313.268402654
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 36,
+				"Shape_Leng" : 84.5427722051,
+				"Shape_Area" : 317.528646345
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 37,
+				"Shape_Leng" : 84.5005774608,
+				"Shape_Area" : 394.338194415
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 38,
+				"Shape_Leng" : 83.2295293475,
+				"Shape_Area" : 399.278809316
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 39,
+				"Shape_Leng" : 40.487343815,
+				"Shape_Area" : 87.6721403356
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 40,
+				"Shape_Leng" : 86.1686743789,
+				"Shape_Area" : 243.230403903
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 41,
+				"Shape_Leng" : 67.2951652701,
+				"Shape_Area" : 218.17110543
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 42,
+				"Shape_Leng" : 120.158280024,
+				"Shape_Area" : 631.126789038
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 43,
+				"Shape_Leng" : 79.6915741563,
+				"Shape_Area" : 395.887161489
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 44,
+				"Shape_Leng" : 29.1641108412,
+				"Shape_Area" : 51.7123583038
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 45,
+				"Shape_Leng" : 49.298461786,
+				"Shape_Area" : 125.191125974
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 46,
+				"Shape_Leng" : 53.5729301732,
+				"Shape_Area" : 167.419155424
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 47,
+				"Shape_Leng" : 61.9940924399,
+				"Shape_Area" : 192.295047546
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 48,
+				"Shape_Leng" : 55.9886646127,
+				"Shape_Area" : 161.923842922
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 49,
+				"Shape_Leng" : 22.4130222981,
+				"Shape_Area" : 31.0698183967
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 50,
+				"Shape_Leng" : 88.4994003315,
+				"Shape_Area" : 275.859299936
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 51,
+				"Shape_Leng" : 356.64292285,
+				"Shape_Area" : 3021.10374852
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 52,
+				"Shape_Leng" : 496.684438436,
+				"Shape_Area" : 2702.25104939
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 53,
+				"Shape_Leng" : 264.364051316,
+				"Shape_Area" : 2934.89597945
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 54,
+				"Shape_Leng" : 227.256048412,
+				"Shape_Area" : 1689.03894866
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 55,
+				"Shape_Leng" : 127.599477144,
+				"Shape_Area" : 845.016219941
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 56,
+				"Shape_Leng" : 439.001527444,
+				"Shape_Area" : 5361.46756206
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 57,
+				"Shape_Leng" : 184.984361238,
+				"Shape_Area" : 1355.2467515
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 58,
+				"Shape_Leng" : 143.343008326,
+				"Shape_Area" : 1153.52922058
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 59,
+				"Shape_Leng" : 170.092353468,
+				"Shape_Area" : 1282.21591783
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 60,
+				"Shape_Leng" : 166.64115821,
+				"Shape_Area" : 1580.8203407
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 61,
+				"Shape_Leng" : 162.539501713,
+				"Shape_Area" : 1030.28666966
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 62,
+				"Shape_Leng" : 270.621244662,
+				"Shape_Area" : 3546.6921955
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 63,
+				"Shape_Leng" : 126.730645093,
+				"Shape_Area" : 964.037234447
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 64,
+				"Shape_Leng" : 229.040513196,
+				"Shape_Area" : 2889.25740143
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 65,
+				"Shape_Leng" : 118.158676328,
+				"Shape_Area" : 824.346051688
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 66,
+				"Shape_Leng" : 12.5542634884,
+				"Shape_Area" : 9.67168923048
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 67,
+				"Shape_Leng" : 104.306566503,
+				"Shape_Area" : 650.012632121
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 68,
+				"Shape_Leng" : 69.579400707,
+				"Shape_Area" : 290.635334064
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 69,
+				"Shape_Leng" : 83.385812312,
+				"Shape_Area" : 432.638182403
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 70,
+				"Shape_Leng" : 267.643179899,
+				"Shape_Area" : 1800.67860277
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 72,
+				"Shape_Leng" : 236.286267538,
+				"Shape_Area" : 1796.05268034
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 73,
+				"Shape_Leng" : 81.3470058583,
+				"Shape_Area" : 333.465036346
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 74,
+				"Shape_Leng" : 115.05844343,
+				"Shape_Area" : 782.963405586
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 75,
+				"Shape_Leng" : 73.2632162271,
+				"Shape_Area" : 264.982950409
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 76,
+				"Shape_Leng" : 73.2322722966,
+				"Shape_Area" : 262.610260945
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 77,
+				"Shape_Leng" : 85.8696755514,
+				"Shape_Area" : 359.552685869
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 78,
+				"Shape_Leng" : 50.5912735375,
+				"Shape_Area" : 143.695203135
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 79,
+				"Shape_Leng" : 78.6480294076,
+				"Shape_Area" : 349.926022663
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 80,
+				"Shape_Leng" : 45.7434953492,
+				"Shape_Area" : 130.478159571
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 81,
+				"Shape_Leng" : 313.971368381,
+				"Shape_Area" : 2284.52529325
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 82,
+				"Shape_Leng" : 204.905014251,
+				"Shape_Area" : 1608.76615452
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 83,
+				"Shape_Leng" : 459.09271245,
+				"Shape_Area" : 3698.88030455
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 84,
+				"Shape_Leng" : 302.315455736,
+				"Shape_Area" : 3289.92671032
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 85,
+				"Shape_Leng" : 154.798000314,
+				"Shape_Area" : 1155.33263276
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 86,
+				"Shape_Leng" : 319.589800295,
+				"Shape_Area" : 3041.45272673
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 87,
+				"Shape_Leng" : 277.575867943,
+				"Shape_Area" : 3275.00926752
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 89,
+				"Shape_Leng" : 256.780206271,
+				"Shape_Area" : 2288.97180533
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 90,
+				"Shape_Leng" : 82.2969615126,
+				"Shape_Area" : 405.811536328
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 91,
+				"Shape_Leng" : 22.7425379874,
+				"Shape_Area" : 21.2495691095
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 92,
+				"Shape_Leng" : 213.391101808,
+				"Shape_Area" : 2747.59800947
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 93,
+				"Shape_Leng" : 144.580366831,
+				"Shape_Area" : 912.111322677
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 95,
+				"Shape_Leng" : 163.053233081,
+				"Shape_Area" : 1364.09647577
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 96,
+				"Shape_Leng" : 222.228925408,
+				"Shape_Area" : 1823.33037298
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 97,
+				"Shape_Leng" : 193.669403589,
+				"Shape_Area" : 1994.96472035
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 99,
+				"Shape_Leng" : 74.3800873891,
+				"Shape_Area" : 273.869956294
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 100,
+				"Shape_Leng" : 83.1070373538,
+				"Shape_Area" : 173.262755576
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 101,
+				"Shape_Leng" : 188.31288486,
+				"Shape_Area" : 905.108560023
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 102,
+				"Shape_Leng" : 87.6020182852,
+				"Shape_Area" : 478.948762412
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 103,
+				"Shape_Leng" : 28.7323100432,
+				"Shape_Area" : 50.9787198917
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 104,
+				"Shape_Leng" : 681.687713534,
+				"Shape_Area" : 14871.5741847
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 105,
+				"Shape_Leng" : 215.264107139,
+				"Shape_Area" : 1787.54914718
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 106,
+				"Shape_Leng" : 6.33058214022,
+				"Shape_Area" : 2.44912069866
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 107,
+				"Shape_Leng" : 141.930544779,
+				"Shape_Area" : 1145.13713267
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 108,
+				"Shape_Leng" : 88.9956832874,
+				"Shape_Area" : 471.111168951
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 110,
+				"Shape_Leng" : 46.9673103147,
+				"Shape_Area" : 136.825284053
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 111,
+				"Shape_Leng" : 135.720392298,
+				"Shape_Area" : 532.224978919
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 112,
+				"Shape_Leng" : 59.3736369729,
+				"Shape_Area" : 178.285114616
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 113,
+				"Shape_Leng" : 31.2230446267,
+				"Shape_Area" : 60.7015692344
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 114,
+				"Shape_Leng" : 156.310882951,
+				"Shape_Area" : 1424.87604579
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 115,
+				"Shape_Leng" : 206.210936471,
+				"Shape_Area" : 968.032118608
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 116,
+				"Shape_Leng" : 94.6612898697,
+				"Shape_Area" : 143.837776084
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 117,
+				"Shape_Leng" : 92.2258674021,
+				"Shape_Area" : 493.972274034
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 118,
+				"Shape_Leng" : 44.5851709701,
+				"Shape_Area" : 122.743141146
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 119,
+				"Shape_Leng" : 621.567112974,
+				"Shape_Area" : 4106.0471985
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 120,
+				"Shape_Leng" : 161.553909832,
+				"Shape_Area" : 800.003337921
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 121,
+				"Shape_Leng" : 139.419059208,
+				"Shape_Area" : 1103.04892812
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 122,
+				"Shape_Leng" : 166.013101259,
+				"Shape_Area" : 1071.0709669
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 123,
+				"Shape_Leng" : 95.1395589108,
+				"Shape_Area" : 406.112109583
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 124,
+				"Shape_Leng" : 238.847845114,
+				"Shape_Area" : 3109.00771808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 125,
+				"Shape_Leng" : 128.873649583,
+				"Shape_Area" : 1026.85581847
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 126,
+				"Shape_Leng" : 83.6969210297,
+				"Shape_Area" : 315.780330694
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 127,
+				"Shape_Leng" : 89.4080589579,
+				"Shape_Area" : 497.674661299
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 128,
+				"Shape_Leng" : 135.521467641,
+				"Shape_Area" : 713.192383693
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 129,
+				"Shape_Leng" : 99.0325705283,
+				"Shape_Area" : 264.792555249
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 130,
+				"Shape_Leng" : 53.4263097758,
+				"Shape_Area" : 157.765237077
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 131,
+				"Shape_Leng" : 198.846427073,
+				"Shape_Area" : 2058.54680235
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 132,
+				"Shape_Leng" : 243.234930709,
+				"Shape_Area" : 3001.46607727
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 133,
+				"Shape_Leng" : 67.4113900879,
+				"Shape_Area" : 216.088714792
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 137,
+				"Shape_Leng" : 150.762828279,
+				"Shape_Area" : 1412.75914857
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 138,
+				"Shape_Leng" : 312.962710967,
+				"Shape_Area" : 5525.26278716
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 139,
+				"Shape_Leng" : 102.289193008,
+				"Shape_Area" : 532.450050439
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 140,
+				"Shape_Leng" : 65.0673695597,
+				"Shape_Area" : 261.948742337
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 142,
+				"Shape_Leng" : 0,
+				"Shape_Area" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 144,
+				"Shape_Leng" : 166.025337701,
+				"Shape_Area" : 1713.80803209
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 145,
+				"Shape_Leng" : 209.757891311,
+				"Shape_Area" : 2582.31658094
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 146,
+				"Shape_Leng" : 208.508830417,
+				"Shape_Area" : 2710.09961224
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 147,
+				"Shape_Leng" : 233.712729833,
+				"Shape_Area" : 3396.74859891
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 148,
+				"Shape_Leng" : 0,
+				"Shape_Area" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 151,
+				"Shape_Leng" : 222.036365748,
+				"Shape_Area" : 2924.38779043
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 152,
+				"Shape_Leng" : 254.437228746,
+				"Shape_Area" : 3790.08261989
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 154,
+				"Shape_Leng" : 240.908869488,
+				"Shape_Area" : 3604.93955525
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 155,
+				"Shape_Leng" : 152.68574961,
+				"Shape_Area" : 1153.10550294
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"UniqueID" : 156,
+				"Shape_Leng" : 222.228925408,
+				"Shape_Area" : 1823.33037298
+			}
+		}
+	]
+}
