@@ -1,6 +1,6 @@
 {
 	"type" : "FeatureCollection",
-	"name" : "CMPBuildingsP09",
+	
 	"features" : [
 		{
 			"type" : "Feature",
@@ -18,12 +18,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CLAYWORKS APARTMENTS D 41-85",
+				
 				"Shape_Leng" : 88.8576321111,
 				"Shape_Area" : 471.193854356,
-				"RandomStri" : "675D3527H77970HS",
-				"No" : 15,
-				"Building" : "CLAYWORKS APARTMENTS D 41-85",
+				
+				
+				
 				"RandomString" : "675D3527H77970HS"
 			}
 		},
@@ -42,12 +42,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CLAYWORKS APARTMENTS E 1-40",
+				
 				"Shape_Leng" : 108.743611255,
 				"Shape_Area" : 581.696931449,
-				"RandomStri" : "609E8698V82871CN",
-				"No" : 16,
-				"Building" : "CLAYWORKS APARTMENTS E 1-40",
+				
+				
+				
 				"RandomString" : "609E8698V82871CN"
 			}
 		},
@@ -70,12 +70,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "KEMP PORTER BUILDINGS",
+				
 				"Shape_Leng" : 200.608558237,
 				"Shape_Area" : 1478.65135288,
-				"RandomStri" : "633C5472D97388TM",
-				"No" : 17,
-				"Building" : "KEMP PORTER BUILDINGS",
+				
+				
+				
 				"RandomString" : "633C5472D97388TM"
 			}
 		},
@@ -99,12 +99,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "WOODWARD BUILDING A",
+				
 				"Shape_Leng" : 146.992256653,
 				"Shape_Area" : 969.499072263,
-				"RandomStri" : "704Z5375K75894TA",
-				"No" : 18,
-				"Building" : "WOODWARD BUILDING A",
+				
+				
+				
 				"RandomString" : "704Z5375K75894TA"
 			}
 		},
@@ -138,12 +138,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "WOODWARD HALL",
+				
 				"Shape_Leng" : 252.82939464,
 				"Shape_Area" : 2179.81121076,
-				"RandomStri" : "710R8058N26200DP",
-				"No" : 19,
-				"Building" : "WOODWARD HALL",
+				
+				
+				
 				"RandomString" : "710R8058N26200DP"
 			}
 		},
@@ -222,12 +222,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CHELSEA AND WESTMINSTER",
+				
 				"Shape_Leng" : 681.687713534,
 				"Shape_Area" : 14871.5741847,
-				"RandomStri" : "404S3685H31519TG",
-				"No" : 104,
-				"Building" : "CHELSEA AND WESTMINSTER",
+				
+				
+				
 				"RandomString" : "404S3685H31519TG"
 			}
 		},
@@ -250,12 +250,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "GLENISTER HALL",
+				
 				"Shape_Leng" : 79.7953750801,
 				"Shape_Area" : 341.884132007,
-				"RandomStri" : "186A8529K53341SE",
-				"No" : 1,
-				"Building" : "GLENISTER HALL",
+				
+				
+				
 				"RandomString" : "186A8529K53341SE"
 			}
 		},
@@ -283,12 +283,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "REYNOLDS BUILDING",
+				
 				"Shape_Leng" : 203.232996746,
 				"Shape_Area" : 1541.18703282,
-				"RandomStri" : "729P3686H27913NZ",
-				"No" : 2,
-				"Building" : "REYNOLDS BUILDING",
+				
+				
+				
 				"RandomString" : "729P3686H27913NZ"
 			}
 		},
@@ -307,12 +307,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "COMPARATIVE BIOLOGY BLOCK",
+				
 				"Shape_Leng" : 88.9956832874,
 				"Shape_Area" : 471.111168951,
-				"RandomStri" : "456E5999G26356WZ",
-				"No" : 108,
-				"Building" : "COMPARATIVE BIOLOGY BLOCK",
+				
+				
+				
 				"RandomString" : "456E5999G26356WZ"
 			}
 		},
@@ -331,11 +331,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "GAS STORES",
+				
 				"Shape_Leng" : 44.5851709701,
 				"Shape_Area" : 122.743141146,
-				"No" : 118,
-				"Building" : "GAS STORES",
+				
+				
 				"RandomString" : "499H9921F37170NT"
 			}
 		},
@@ -354,12 +354,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "LAB BLOCK",
+				
 				"Shape_Leng" : 139.419059208,
 				"Shape_Area" : 1103.04892812,
-				"RandomStri" : "753C9422V33121SS",
-				"No" : 121,
-				"Building" : "LAB BLOCK",
+				
+				
+				
 				"RandomString" : "753C9422V33121SS"
 			}
 		},
@@ -378,12 +378,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "MEDICAL ONCOLOGY",
+				
 				"Shape_Leng" : 95.1395589108,
 				"Shape_Area" : 406.112109583,
-				"RandomStri" : "121A3719Q19918DQ",
-				"No" : 123,
-				"Building" : "MEDICAL ONCOLOGY",
+				
+				
+				
 				"RandomString" : "121A3719Q19918DQ"
 			}
 		},
@@ -402,12 +402,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "PARSONS HOUSE",
+				
 				"Shape_Leng" : 89.4080589579,
 				"Shape_Area" : 497.674661299,
-				"RandomStri" : "411R5147V79575RO",
-				"No" : 127,
-				"Building" : "PARSONS HOUSE",
+				
+				
+				
 				"RandomString" : "411R5147V79575RO"
 			}
 		},
@@ -426,12 +426,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "PEMBRIDGE GARDENS ANNEXE",
+				
 				"Shape_Leng" : 99.0325705283,
 				"Shape_Area" : 264.792555249,
-				"RandomStri" : "175Y3325T54926JK",
-				"No" : 129,
-				"Building" : "PEMBRIDGE GARDENS ANNEXE",
+				
+				
+				
 				"RandomString" : "175Y3325T54926JK"
 			}
 		},
@@ -478,11 +478,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "ACE EXTENSION",
+				
 				"Shape_Leng" : 356.64292285,
 				"Shape_Area" : 3021.10374852,
-				"No" : 51,
-				"Building" : "ACE EXTENSION",
+				
+				
 				"RandomString" : "259E5295V73886ZC"
 			}
 		},
@@ -535,12 +535,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BEIT QUADRANGLE",
+				
 				"Shape_Leng" : 496.684438436,
 				"Shape_Area" : 2702.25104939,
-				"RandomStri" : "471J8216W71754US",
-				"No" : 52,
-				"Building" : "BEIT QUADRANGLE",
+				
+				
+				
 				"RandomString" : "471J8216W71754US"
 			}
 		},
@@ -569,11 +569,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BESSEMER",
+				
 				"Shape_Leng" : 264.364051316,
 				"Shape_Area" : 2934.89597945,
-				"No" : 53,
-				"Building" : "BESSEMER",
+				
+				
 				"RandomString" : "227J4395F51807WR"
 			}
 		},
@@ -602,12 +602,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BLACKETT",
+				
 				"Shape_Leng" : 227.256048412,
 				"Shape_Area" : 1689.03894866,
-				"RandomStri" : "638D6336C25650QG",
-				"No" : 54,
-				"Building" : "BLACKETT",
+				
+				
+				
 				"RandomString" : "638D6336C25650QG"
 			}
 		},
@@ -632,12 +632,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BONE",
+				
 				"Shape_Leng" : 127.599477144,
 				"Shape_Area" : 845.016219941,
-				"RandomStri" : "401V4073S67971YO",
-				"No" : 55,
-				"Building" : "BONE",
+				
+				
+				
 				"RandomString" : "401V4073S67971YO"
 			}
 		},
@@ -680,12 +680,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CITY AND GUILDS",
+				
 				"Shape_Leng" : 439.001527444,
 				"Shape_Area" : 5361.46756206,
-				"RandomStri" : "667J3814X85169YI",
-				"No" : 56,
-				"Building" : "CITY AND GUILDS",
+				
+				
+				
 				"RandomString" : "667J3814X85169YI"
 			}
 		},
@@ -711,11 +711,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CHEMISTRY",
+				
 				"Shape_Leng" : 184.984361238,
 				"Shape_Area" : 1355.2467515,
-				"No" : 57,
-				"Building" : "CHEMISTRY",
+				
+				
 				"RandomString" : "390X7031T93765ZW"
 			}
 		},
@@ -739,12 +739,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "DYSON",
+				
 				"Shape_Leng" : 143.343008326,
 				"Shape_Area" : 1153.52922058,
-				"RandomStri" : "320J4219X32170VJ",
-				"No" : 58,
-				"Building" : "DYSON",
+				
+				
+				
 				"RandomString" : "320J4219X32170VJ"
 			}
 		},
@@ -773,12 +773,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "ELECTRICAL ENGINEERING",
+				
 				"Shape_Leng" : 170.092353468,
 				"Shape_Area" : 1282.21591783,
-				"RandomStri" : "430T6925C37482DQ",
-				"No" : 59,
-				"Building" : "ELECTRICAL ENGINEERING",
+				
+				
+				
 				"RandomString" : "430T6925C37482DQ"
 			}
 		},
@@ -801,12 +801,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "ETHOS SPORTS CENTRE",
+				
 				"Shape_Leng" : 166.64115821,
 				"Shape_Area" : 1580.8203407,
-				"RandomStri" : "377V7349I23052HR",
-				"No" : 60,
-				"Building" : "ETHOS SPORTS CENTRE",
+				
+				
+				
 				"RandomString" : "377V7349I23052HR"
 			}
 		},
@@ -833,12 +833,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "FLOWERS",
+				
 				"Shape_Leng" : 162.539501713,
 				"Shape_Area" : 1030.28666966,
-				"RandomStri" : "380Q4463Y47331YX",
-				"No" : 61,
-				"Building" : "FLOWERS",
+				
+				
+				
 				"RandomString" : "380Q4463Y47331YX"
 			}
 		},
@@ -877,11 +877,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "HUXLEY",
+				
 				"Shape_Leng" : 270.621244662,
 				"Shape_Area" : 3546.6921955,
-				"No" : 62,
-				"Building" : "HUXLEY",
+				
+				
 				"RandomString" : "275H7721W55979QH"
 			}
 		},
@@ -901,12 +901,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BUSINESS SCHOOL",
+				
 				"Shape_Leng" : 126.730645093,
 				"Shape_Area" : 964.037234447,
-				"RandomStri" : "756H6328Q61814TD",
-				"No" : 63,
-				"Building" : "BUSINESS SCHOOL",
+				
+				
+				
 				"RandomString" : "756H6328Q61814TD"
 			}
 		},
@@ -932,12 +932,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CENTRAL LIBRARY",
+				
 				"Shape_Leng" : 229.040513196,
 				"Shape_Area" : 2889.25740143,
-				"RandomStri" : "167Y2411P76329YR",
-				"No" : 64,
-				"Building" : "CENTRAL LIBRARY",
+				
+				
+				
 				"RandomString" : "167Y2411P76329YR"
 			}
 		},
@@ -961,12 +961,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "FACULTY BUILDING",
+				
 				"Shape_Leng" : 118.158676328,
 				"Shape_Area" : 824.346051688,
-				"RandomStri" : "770T6764E95110UD",
-				"No" : 65,
-				"Building" : "FACULTY BUILDING",
+				
+				
+				
 				"RandomString" : "770T6764E95110UD"
 			}
 		},
@@ -987,12 +987,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "10-13 PRINCES GARDENS",
+				
 				"Shape_Leng" : 104.306566503,
 				"Shape_Area" : 650.012632121,
-				"RandomStri" : "104X9698B31773CA",
-				"No" : 67,
-				"Building" : "10-13 PRINCES GARDENS",
+				
+				
+				
 				"RandomString" : "104X9698B31773CA"
 			}
 		},
@@ -1013,12 +1013,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "14-15 PRINCES GARDENS",
+				
 				"Shape_Leng" : 69.579400707,
 				"Shape_Area" : 290.635334064,
-				"RandomStri" : "252K7983V42928FY",
-				"No" : 68,
-				"Building" : "14-15 PRINCES GARDENS",
+				
+				
+				
 				"RandomString" : "252K7983V42928FY"
 			}
 		},
@@ -1039,11 +1039,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "8-9 PRINCES GARDENS",
+				
 				"Shape_Leng" : 83.385812312,
 				"Shape_Area" : 432.638182403,
-				"No" : 69,
-				"Building" : "8-9 PRINCES GARDENS",
+				
+				
 				"RandomString" : "529W5953H73645LG"
 			}
 		},
@@ -1069,12 +1069,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "EASTSIDE",
+				
 				"Shape_Leng" : 267.643179899,
 				"Shape_Area" : 1800.67860277,
-				"RandomStri" : "325W5959W27465ZD",
-				"No" : 70,
-				"Building" : "EASTSIDE",
+				
+				
+				
 				"RandomString" : "325W5959W27465ZD"
 			}
 		},
@@ -1098,12 +1098,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SOUTHSIDE",
+				
 				"Shape_Leng" : 236.286267538,
 				"Shape_Area" : 1796.05268034,
-				"RandomStri" : "859E3525R60369XW",
-				"No" : 72,
-				"Building" : "SOUTHSIDE",
+				
+				
+				
 				"RandomString" : "859E3525R60369XW"
 			}
 		},
@@ -1134,12 +1134,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "WEEKS HALL",
+				
 				"Shape_Leng" : 81.3470058583,
 				"Shape_Area" : 333.465036346,
-				"RandomStri" : "941E7778U14548UQ",
-				"No" : 73,
-				"Building" : "WEEKS HALL",
+				
+				
+				
 				"RandomString" : "941E7778U14548UQ"
 			}
 		},
@@ -1166,11 +1166,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "WILLIAM PENNEY LABORATORY",
+				
 				"Shape_Leng" : 115.05844343,
 				"Shape_Area" : 782.963405586,
-				"No" : 74,
-				"Building" : "WILLIAM PENNEY LABORATORY",
+				
+				
 				"RandomString" : "847Y3108Q84387VT"
 			}
 		},
@@ -1194,12 +1194,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "52 PRINCES GATE",
+				
 				"Shape_Leng" : 73.2632162271,
 				"Shape_Area" : 264.982950409,
-				"RandomStri" : "901M1910I12783NL",
-				"No" : 75,
-				"Building" : "52 PRINCES GATE",
+				
+				
+				
 				"RandomString" : "901M1910I12783NL"
 			}
 		},
@@ -1224,12 +1224,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "53 PRINCES GATE",
+				
 				"Shape_Leng" : 73.2322722966,
 				"Shape_Area" : 262.610260945,
-				"RandomStri" : "883X2711A26486JW",
-				"No" : 76,
-				"Building" : "53 PRINCES GATE",
+				
+				
+				
 				"RandomString" : "883X2711A26486JW"
 			}
 		},
@@ -1256,11 +1256,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "58 PRINCES GATE",
+				
 				"Shape_Leng" : 85.8696755514,
 				"Shape_Area" : 359.552685869,
-				"No" : 77,
-				"Building" : "58 PRINCES GATE",
+				
+				
 				"RandomString" : "215D9251S87427WR"
 			}
 		},
@@ -1279,11 +1279,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "GARDEN COTTAGE",
+				
 				"Shape_Leng" : 50.5912735375,
 				"Shape_Area" : 143.695203135,
-				"No" : 78,
-				"Building" : "GARDEN COTTAGE",
+				
+				
 				"RandomString" : "503C8056I40222VU"
 			}
 		},
@@ -1303,12 +1303,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "170 QUEENS GATE",
+				
 				"Shape_Leng" : 78.6480294076,
 				"Shape_Area" : 349.926022663,
-				"RandomStri" : "650V9843D93374NM",
-				"No" : 79,
-				"Building" : "170 QUEENS GATE",
+				
+				
+				
 				"RandomString" : "650V9843D93374NM"
 			}
 		},
@@ -1327,12 +1327,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "QUEENS TOWER",
+				
 				"Shape_Leng" : 45.7434953492,
 				"Shape_Area" : 130.478159571,
-				"RandomStri" : "536W1178X21271WP",
-				"No" : 80,
-				"Building" : "QUEENS TOWER",
+				
+				
+				
 				"RandomString" : "536W1178X21271WP"
 			}
 		},
@@ -1377,12 +1377,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "RCS1",
+				
 				"Shape_Leng" : 313.971368381,
 				"Shape_Area" : 2284.52529325,
-				"RandomStri" : "401S7695C17581DU",
-				"No" : 81,
-				"Building" : "RCS1",
+				
+				
+				
 				"RandomString" : "401S7695C17581DU"
 			}
 		},
@@ -1414,12 +1414,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "RODERIC HILL",
+				
 				"Shape_Leng" : 204.905014251,
 				"Shape_Area" : 1608.76615452,
-				"RandomStri" : "770H9856V16812DX",
-				"No" : 82,
-				"Building" : "RODERIC HILL",
+				
+				
+				
 				"RandomString" : "770H9856V16812DX"
 			}
 		},
@@ -1452,12 +1452,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "ROYAL SCHOOL OF MINES",
+				
 				"Shape_Leng" : 459.09271245,
 				"Shape_Area" : 3698.88030455,
-				"RandomStri" : "123I6639G39732TG",
-				"No" : 83,
-				"Building" : "ROYAL SCHOOL OF MINES",
+				
+				
+				
 				"RandomString" : "123I6639G39732TG"
 			}
 		},
@@ -1502,12 +1502,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SIR ALEXANDER FLEMING BUILDING",
+				
 				"Shape_Leng" : 302.315455736,
 				"Shape_Area" : 3289.92671032,
-				"RandomStri" : "692R5409I72057VK",
-				"No" : 84,
-				"Building" : "SIR ALEXANDER FLEMING BUILDING",
+				
+				
+				
 				"RandomString" : "692R5409I72057VK"
 			}
 		},
@@ -1534,12 +1534,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SIR ERNST CHAIN",
+				
 				"Shape_Leng" : 154.798000314,
 				"Shape_Area" : 1155.33263276,
-				"RandomStri" : "371G8444V11549AE",
-				"No" : 85,
-				"Building" : "SIR ERNST CHAIN",
+				
+				
+				
 				"RandomString" : "371G8444V11549AE"
 			}
 		},
@@ -1558,12 +1558,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SHERFIELD",
+				
 				"Shape_Leng" : 319.589800295,
 				"Shape_Area" : 3041.45272673,
-				"RandomStri" : "941M9779Z26430UF",
-				"No" : 86,
-				"Building" : "SHERFIELD",
+				
+				
+				
 				"RandomString" : "941M9779Z26430UF"
 			}
 		},
@@ -1597,11 +1597,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SKEMPTON BUILDING",
+				
 				"Shape_Leng" : 277.575867943,
 				"Shape_Area" : 3275.00926752,
-				"No" : 87,
-				"Building" : "SKEMPTON BUILDING",
+				
+				
 				"RandomString" : "170V9620E98562IH"
 			}
 		},
@@ -1622,12 +1622,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "55 PRINCES GATE",
+				
 				"Shape_Leng" : 74.3800873891,
 				"Shape_Area" : 273.869956294,
-				"RandomStri" : "862L2971S86223RI",
-				"No" : 99,
-				"Building" : "55 PRINCES GATE",
+				
+				
+				
 				"RandomString" : "862L2971S86223RI"
 			}
 		},
@@ -1646,12 +1646,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CONTRACTORS WELFARE",
+				
 				"Shape_Leng" : 46.9673103147,
 				"Shape_Area" : 136.825284053,
-				"RandomStri" : "522H5756P23397IS",
-				"No" : 110,
-				"Building" : "CONTRACTORS WELFARE",
+				
+				
+				
 				"RandomString" : "522H5756P23397IS"
 			}
 		},
@@ -1675,12 +1675,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "GUY SCADDING",
+				
 				"Shape_Leng" : 130.857084903,
 				"Shape_Area" : 1049.37426954,
-				"RandomStri" : "165P5526M91053IN",
-				"No" : 21,
-				"Building" : "GUY SCADDING",
+				
+				
+				
 				"RandomString" : "165P5526M91053IN"
 			}
 		},
@@ -1704,12 +1704,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CHELSEA WING",
+				
 				"Shape_Leng" : 215.264107139,
 				"Shape_Area" : 1787.54914718,
-				"RandomStri" : "615E2433M41311UA",
-				"No" : 105,
-				"Building" : "CHELSEA WING",
+				
+				
+				
 				"RandomString" : "615E2433M41311UA"
 			}
 		},
@@ -1728,11 +1728,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "EMANUEL KAYE",
+				
 				"Shape_Leng" : 156.310882951,
 				"Shape_Area" : 1424.87604579,
-				"No" : 114,
-				"Building" : "EMANUEL KAYE",
+				
+				
 				"RandomString" : "873D7286W48666SX"
 			}
 		},
@@ -1751,12 +1751,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SYDNEY ST WING",
+				
 				"Shape_Leng" : 312.962710967,
 				"Shape_Area" : 5525.26278716,
-				"RandomStri" : "998Z7731P95705JW",
-				"No" : 138,
-				"Building" : "SYDNEY ST WING",
+				
+				
+				
 				"RandomString" : "998Z7731P95705JW"
 			}
 		},
@@ -1776,12 +1776,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "AVIARY",
+				
 				"Shape_Leng" : 48.0688986384,
 				"Shape_Area" : 144.083933401,
-				"RandomStri" : "241S1006F88082DM",
-				"No" : 22,
-				"Building" : "AVIARY",
+				
+				
+				
 				"RandomString" : "241S1006F88082DM"
 			}
 		},
@@ -1800,12 +1800,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BIOLOGY GREENHOUSES",
+				
 				"Shape_Leng" : 41.2546240792,
 				"Shape_Area" : 78.2247445486,
-				"RandomStri" : "250Y5307Y46675JY",
-				"No" : 23,
-				"Building" : "BIOLOGY GREENHOUSES",
+				
+				
+				
 				"RandomString" : "250Y5307Y46675JY"
 			}
 		},
@@ -1824,11 +1824,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BRIAN FLOWERS",
+				
 				"Shape_Leng" : 60.7333664887,
 				"Shape_Area" : 185.664757217,
-				"No" : 25,
-				"Building" : "BRIAN FLOWERS",
+				
+				
 				"RandomString" : "337B8218T69184LT"
 			}
 		},
@@ -1847,12 +1847,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CENTRE FOR POPULATION BIOLOGY",
+				
 				"Shape_Leng" : 86.8954091011,
 				"Shape_Area" : 437.470679784,
-				"RandomStri" : "115F8173D26533VO",
-				"No" : 26,
-				"Building" : "CENTRE FOR POPULATION BIOLOGY",
+				
+				
+				
 				"RandomString" : "115F8173D26533VO"
 			}
 		},
@@ -1872,11 +1872,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CONTROLLED ENVIRONMENT ROOMS",
+				
 				"Shape_Leng" : 54.7940219384,
 				"Shape_Area" : 168.242243151,
-				"No" : 28,
-				"Building" : "CONTROLLED ENVIRONMENT ROOMS",
+				
+				
 				"RandomString" : "875H5579W67448JF"
 			}
 		},
@@ -1896,12 +1896,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "GREENHOUSES",
+				
 				"Shape_Leng" : 44.7791218483,
 				"Shape_Area" : 115.608919482,
-				"RandomStri" : "875H4491F65377GJ",
-				"No" : 29,
-				"Building" : "GREENHOUSES",
+				
+				
+				
 				"RandomString" : "875H4491F65377GJ"
 			}
 		},
@@ -1926,12 +1926,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "GYM",
+				
 				"Shape_Leng" : 98.3809367594,
 				"Shape_Area" : 437.685016556,
-				"RandomStri" : "366V3411E40606YF",
-				"No" : 30,
-				"Building" : "GYM",
+				
+				
+				
 				"RandomString" : "366V3411E40606YF"
 			}
 		},
@@ -1952,12 +1952,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "HAMILTON BUILDING",
+				
 				"Shape_Leng" : 156.035555187,
 				"Shape_Area" : 868.178481622,
-				"RandomStri" : "275T1384O81867JC",
-				"No" : 31,
-				"Building" : "HAMILTON BUILDING",
+				
+				
+				
 				"RandomString" : "275T1384O81867JC"
 			}
 		},
@@ -1980,12 +1980,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "HEADER HOUSE",
+				
 				"Shape_Leng" : 58.0073259116,
 				"Shape_Area" : 184.951894411,
-				"RandomStri" : "868H8425L93123TS",
-				"No" : 32,
-				"Building" : "HEADER HOUSE",
+				
+				
+				
 				"RandomString" : "868H8425L93123TS"
 			}
 		},
@@ -2004,12 +2004,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "HUT 7 - EMERGENCY CONTROL BUILDING",
+				
 				"Shape_Leng" : 42.4554453194,
 				"Shape_Area" : 106.227266361,
-				"RandomStri" : "583Q2652F61600AH",
-				"No" : 33,
-				"Building" : "HUT 7 - EMERGENCY CONTROL BUILDING",
+				
+				
+				
 				"RandomString" : "583Q2652F61600AH"
 			}
 		},
@@ -2028,12 +2028,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "I-PARC",
+				
 				"Shape_Leng" : 95.694483707,
 				"Shape_Area" : 378.807904362,
-				"RandomStri" : "256S5518O52918IU",
-				"No" : 34,
-				"Building" : "I-PARC",
+				
+				
+				
 				"RandomString" : "256S5518O52918IU"
 			}
 		},
@@ -2052,12 +2052,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "IMPACT GREENHOUSES",
+				
 				"Shape_Leng" : 71.2417831382,
 				"Shape_Area" : 313.268402654,
-				"RandomStri" : "135C6851X20420WZ",
-				"No" : 35,
-				"Building" : "IMPACT GREENHOUSES",
+				
+				
+				
 				"RandomString" : "135C6851X20420WZ"
 			}
 		},
@@ -2078,12 +2078,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "JOHN SMITH",
+				
 				"Shape_Leng" : 84.5427722051,
 				"Shape_Area" : 317.528646345,
-				"RandomStri" : "232W6825J97117HU",
-				"No" : 36,
-				"Building" : "JOHN SMITH",
+				
+				
+				
 				"RandomString" : "232W6825J97117HU"
 			}
 		},
@@ -2102,12 +2102,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "KENNEDY BUILDING",
+				
 				"Shape_Leng" : 84.5005774608,
 				"Shape_Area" : 394.338194415,
-				"RandomStri" : "395I1089Q50386ZE",
-				"No" : 37,
-				"Building" : "KENNEDY BUILDING",
+				
+				
+				
 				"RandomString" : "395I1089Q50386ZE"
 			}
 		},
@@ -2126,12 +2126,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "LEES BUILDING",
+				
 				"Shape_Leng" : 83.2295293475,
 				"Shape_Area" : 399.278809316,
-				"RandomStri" : "614F2283M48086WD",
-				"No" : 38,
-				"Building" : "LEES BUILDING",
+				
+				
+				
 				"RandomString" : "614F2283M48086WD"
 			}
 		},
@@ -2151,12 +2151,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "M-SCAN",
+				
 				"Shape_Leng" : 40.487343815,
 				"Shape_Area" : 87.6721403356,
-				"RandomStri" : "452D6188B26050HF",
-				"No" : 39,
-				"Building" : "M-SCAN",
+				
+				
+				
 				"RandomString" : "452D6188B26050HF"
 			}
 		},
@@ -2175,12 +2175,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "MAINTENANCE WORKSHOP",
+				
 				"Shape_Leng" : 86.1686743789,
 				"Shape_Area" : 243.230403903,
-				"RandomStri" : "153A4262X88100DS",
-				"No" : 40,
-				"Building" : "MAINTENANCE WORKSHOP",
+				
+				
+				
 				"RandomString" : "153A4262X88100DS"
 			}
 		},
@@ -2203,11 +2203,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "MARY FLOWERS",
+				
 				"Shape_Leng" : 67.2951652701,
 				"Shape_Area" : 218.17110543,
-				"No" : 41,
-				"Building" : "MARY FLOWERS",
+				
+				
 				"RandomString" : "187S2901D72819FA"
 			}
 		},
@@ -2227,12 +2227,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "MUNRO BUILDING",
+				
 				"Shape_Leng" : 120.158280024,
 				"Shape_Area" : 631.126789038,
-				"RandomStri" : "265W4765Y97800UQ",
-				"No" : 42,
-				"Building" : "MUNRO BUILDING",
+				
+				
+				
 				"RandomString" : "265W4765Y97800UQ"
 			}
 		},
@@ -2251,11 +2251,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "REFECTORY",
+				
 				"Shape_Leng" : 79.6915741563,
 				"Shape_Area" : 395.887161489,
-				"No" : 43,
-				"Building" : "REFECTORY",
+				
+				
 				"RandomString" : "157J6837T34682IN"
 			}
 		},
@@ -2274,12 +2274,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "REFECTORY BUNGALOW 2",
+				
 				"Shape_Leng" : 29.1641108412,
 				"Shape_Area" : 51.7123583038,
-				"RandomStri" : "342T8243D59989AT",
-				"No" : 44,
-				"Building" : "REFECTORY BUNGALOW 2",
+				
+				
+				
 				"RandomString" : "342T8243D59989AT"
 			}
 		},
@@ -2300,11 +2300,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SECURITY GATE HOUSE",
+				
 				"Shape_Leng" : 49.298461786,
 				"Shape_Area" : 125.191125974,
-				"No" : 45,
-				"Building" : "SECURITY GATE HOUSE",
+				
+				
 				"RandomString" : "274Z2770F28704EI"
 			}
 		},
@@ -2323,12 +2323,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SOUTH WOOD 1",
+				
 				"Shape_Leng" : 53.5729301732,
 				"Shape_Area" : 167.419155424,
-				"RandomStri" : "777V1956E65210GD",
-				"No" : 46,
-				"Building" : "SOUTH WOOD 1",
+				
+				
+				
 				"RandomString" : "777V1956E65210GD"
 			}
 		},
@@ -2347,12 +2347,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SOUTH WOOD 2",
+				
 				"Shape_Leng" : 61.9940924399,
 				"Shape_Area" : 192.295047546,
-				"RandomStri" : "946K7651V91030RT",
-				"No" : 47,
-				"Building" : "SOUTH WOOD 2",
+				
+				
+				
 				"RandomString" : "946K7651V91030RT"
 			}
 		},
@@ -2375,12 +2375,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SOUTH WOOD 3",
+				
 				"Shape_Leng" : 55.9886646127,
 				"Shape_Area" : 161.923842922,
-				"RandomStri" : "222L3255Q85214ZE",
-				"No" : 48,
-				"Building" : "SOUTH WOOD 3",
+				
+				
+				
 				"RandomString" : "222L3255Q85214ZE"
 			}
 		},
@@ -2408,11 +2408,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "WILLIAM PENNEY HALL  2",
+				
 				"Shape_Leng" : 88.4994003315,
 				"Shape_Area" : 275.859299936,
-				"No" : 50,
-				"Building" : "WILLIAM PENNEY HALL  2",
+				
+				
 				"RandomString" : "248I3163G45220JR"
 			}
 		},
@@ -2431,11 +2431,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "DISUSED BUILDING - GENERAL STORE",
+				
 				"Shape_Leng" : 31.2230446267,
 				"Shape_Area" : 60.7015692344,
-				"No" : 113,
-				"Building" : "DISUSED BUILDING - GENERAL STORE",
+				
+				
 				"RandomString" : "736T3671Q70128BC"
 			}
 		},
@@ -2458,11 +2458,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "PAVILION",
+				
 				"Shape_Leng" : 131.35909595,
 				"Shape_Area" : 592.573887497,
-				"No" : 14,
-				"Building" : "PAVILION",
+				
+				
 				"RandomString" : "789C4340G84766MW"
 			}
 		},
@@ -2481,12 +2481,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "PUTNEY BOAT HOUSE",
+				
 				"Shape_Leng" : 89.420316921,
 				"Shape_Area" : 498.432645897,
-				"RandomStri" : "644C1690X40382CT",
-				"No" : 20,
-				"Building" : "PUTNEY BOAT HOUSE",
+				
+				
+				
 				"RandomString" : "644C1690X40382CT"
 			}
 		},
@@ -2505,12 +2505,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CYCLE HUB",
+				
 				"Shape_Leng" : 82.2969615126,
 				"Shape_Area" : 405.811536328,
-				"RandomStri" : "884O7069J63448FQ",
-				"No" : 90,
-				"Building" : "CYCLE HUB",
+				
+				
+				
 				"RandomString" : "884O7069J63448FQ"
 			}
 		},
@@ -2531,12 +2531,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "MOLECULAR SCIENCES RESEARCH HUB",
+				
 				"Shape_Leng" : 213.391101808,
 				"Shape_Area" : 2747.59800947,
-				"RandomStri" : "395F8585D12856XM",
-				"No" : 92,
-				"Building" : "MOLECULAR SCIENCES RESEARCH HUB",
+				
+				
+				
 				"RandomString" : "395F8585D12856XM"
 			}
 		},
@@ -2574,12 +2574,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "RESIDENTIAL TOWER",
+				
 				"Shape_Leng" : 144.580366831,
 				"Shape_Area" : 912.111322677,
-				"RandomStri" : "360U3526A14226WI",
-				"No" : 93,
-				"Building" : "RESIDENTIAL TOWER",
+				
+				
+				
 				"RandomString" : "360U3526A14226WI"
 			}
 		},
@@ -2603,11 +2603,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SIR MICHAEL UREN HUB",
+				
 				"Shape_Leng" : 163.053233081,
 				"Shape_Area" : 1364.09647577,
-				"No" : 95,
-				"Building" : "SIR MICHAEL UREN HUB",
+				
+				
 				"RandomString" : "819G7116K97519WL"
 			}
 		},
@@ -2629,12 +2629,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "STADIUM HOUSE",
+				
 				"Shape_Leng" : 222.228925408,
 				"Shape_Area" : 1823.33037298,
-				"RandomStri" : "604G6950H83395KM",
-				"No" : 96,
-				"Building" : "STADIUM HOUSE",
+				
+				
+				
 				"RandomString" : "604G6950H83395KM"
 			}
 		},
@@ -2657,11 +2657,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "TRANSLATION AND INNOVATION HUB",
+				
 				"Shape_Leng" : 193.669403589,
 				"Shape_Area" : 1994.96472035,
-				"No" : 97,
-				"Building" : "TRANSLATION AND INNOVATION HUB",
+				
+				
 				"RandomString" : "193P5646Z35132RB"
 			}
 		},
@@ -2753,12 +2753,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "GRADPAD WOOD LANE STUDIOS",
+				
 				"Shape_Leng" : 621.567112974,
 				"Shape_Area" : 4106.0471985,
-				"RandomStri" : "641K3698B29385LV",
-				"No" : 119,
-				"Building" : "GRADPAD WOOD LANE STUDIOS",
+				
+				
+				
 				"RandomString" : "641K3698B29385LV"
 			}
 		},
@@ -2777,12 +2777,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CAMBRIDGE WING",
+				
 				"Shape_Leng" : 87.6020182852,
 				"Shape_Area" : 478.948762412,
-				"RandomStri" : "168O8948W53384PV",
-				"No" : 102,
-				"Building" : "CAMBRIDGE WING",
+				
+				
+				
 				"RandomString" : "168O8948W53384PV"
 			}
 		},
@@ -2803,12 +2803,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "MEDICAL SCHOOL",
+				
 				"Shape_Leng" : 238.847845114,
 				"Shape_Area" : 3109.00771808,
-				"RandomStri" : "935S7347O11301EB",
-				"No" : 124,
-				"Building" : "MEDICAL SCHOOL",
+				
+				
+				
 				"RandomString" : "935S7347O11301EB"
 			}
 		},
@@ -2828,12 +2828,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "MINT WING",
+				
 				"Shape_Leng" : 128.873649583,
 				"Shape_Area" : 1026.85581847,
-				"RandomStri" : "960O3734L91404KO",
-				"No" : 125,
-				"Building" : "MINT WING",
+				
+				
+				
 				"RandomString" : "960O3734L91404KO"
 			}
 		},
@@ -2868,11 +2868,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "PATTERSON WING",
+				
 				"Shape_Leng" : 135.521467641,
 				"Shape_Area" : 713.192383693,
-				"No" : 128,
-				"Building" : "PATTERSON WING",
+				
+				
 				"RandomString" : "745O1726S84247LC"
 			}
 		},
@@ -2897,11 +2897,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "QUEEN ELIZABETH QUEEN MOTHER WING",
+				
 				"Shape_Leng" : 243.234930709,
 				"Shape_Area" : 3001.46607727,
-				"No" : 132,
-				"Building" : "QUEEN ELIZABETH QUEEN MOTHER WING",
+				
+				
 				"RandomString" : "123R7530T97101KI"
 			}
 		},
@@ -2920,11 +2920,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "WINSTON CHURCHILL WING",
+				
 				"Shape_Leng" : 65.0673695597,
 				"Shape_Area" : 261.948742337,
-				"No" : 140,
-				"Building" : "WINSTON CHURCHILL WING",
+				
+				
 				"RandomString" : "649H8007H57375ZU"
 			}
 		},
@@ -2957,12 +2957,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BURLINGTON DANES",
+				
 				"Shape_Leng" : 295.8627742,
 				"Shape_Area" : 2715.76368533,
-				"RandomStri" : "962E5350Y40271BW",
-				"No" : 9,
-				"Building" : "BURLINGTON DANES",
+				
+				
+				
 				"RandomString" : "962E5350Y40271BW"
 			}
 		},
@@ -2987,12 +2987,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "COMMONWEALTH BUILDING",
+				
 				"Shape_Leng" : 156.487596393,
 				"Shape_Area" : 1224.05660449,
-				"RandomStri" : "843O5548I36768WJ",
-				"No" : 10,
-				"Building" : "COMMONWEALTH BUILDING",
+				
+				
+				
 				"RandomString" : "843O5548I36768WJ"
 			}
 		},
@@ -3014,12 +3014,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "ICTEM",
+				
 				"Shape_Leng" : 180.983998022,
 				"Shape_Area" : 2044.95784829,
-				"RandomStri" : "958P7358C46622TU",
-				"No" : 11,
-				"Building" : "ICTEM",
+				
+				
+				
 				"RandomString" : "958P7358C46622TU"
 			}
 		},
@@ -3039,11 +3039,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "INSTITUTE OF REPRODUCTIVE AND DEVELOPMENTAL BIOLOGY",
+				
 				"Shape_Leng" : 100.052073909,
 				"Shape_Area" : 625.393264966,
-				"No" : 12,
-				"Building" : "INSTITUTE OF REPRODUCTIVE AND DEVELOPMENTAL BIOLOGY",
+				
+				
 				"RandomString" : "876V9097D31962YX"
 			}
 		},
@@ -3069,12 +3069,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "WOLFSON EDUCATION CENTRE",
+				
 				"Shape_Leng" : 141.312131616,
 				"Shape_Area" : 1106.50466786,
-				"RandomStri" : "965R1399L90381HO",
-				"No" : 13,
-				"Building" : "WOLFSON EDUCATION CENTRE",
+				
+				
+				
 				"RandomString" : "965R1399L90381HO"
 			}
 		},
@@ -3099,12 +3099,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "B BLOCK",
+				
 				"Shape_Leng" : 83.1070373538,
 				"Shape_Area" : 173.262755576,
-				"RandomStri" : "936G4550H68252NC",
-				"No" : 100,
-				"Building" : "B BLOCK",
+				
+				
+				
 				"RandomString" : "936G4550H68252NC"
 			}
 		},
@@ -3123,12 +3123,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CHEMICAL WASTE STORE",
+				
 				"Shape_Leng" : 6.33058214022,
 				"Shape_Area" : 2.44912069866,
-				"RandomStri" : "818V6462G47961XV",
-				"No" : 106,
-				"Building" : "CHEMICAL WASTE STORE",
+				
+				
+				
 				"RandomString" : "818V6462G47961XV"
 			}
 		},
@@ -3150,12 +3150,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CLINICAL RESEARCH BUILDING",
+				
 				"Shape_Leng" : 141.930544779,
 				"Shape_Area" : 1145.13713267,
-				"RandomStri" : "484I9850G62128EN",
-				"No" : 107,
-				"Building" : "CLINICAL RESEARCH BUILDING",
+				
+				
+				
 				"RandomString" : "484I9850G62128EN"
 			}
 		},
@@ -3180,11 +3180,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "FRANCIS FRASER LABORATORIES",
+				
 				"Shape_Leng" : 94.6612898697,
 				"Shape_Area" : 143.837776084,
-				"No" : 116,
-				"Building" : "FRANCIS FRASER LABORATORIES",
+				
+				
 				"RandomString" : "699P8711Y85929SD"
 			}
 		},
@@ -3214,12 +3214,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "HAMMERSMITH HOUSE",
+				
 				"Shape_Leng" : 161.553909832,
 				"Shape_Area" : 800.003337921,
-				"RandomStri" : "638H8294J31898DK",
-				"No" : 120,
-				"Building" : "HAMMERSMITH HOUSE",
+				
+				
+				
 				"RandomString" : "638H8294J31898DK"
 			}
 		},
@@ -3239,12 +3239,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "HOLBEIN HOUSE",
+				
 				"Shape_Leng" : 73.9503858768,
 				"Shape_Area" : 340.223566109,
-				"RandomStri" : "903Q7021I68783SX",
-				"No" : 6,
-				"Building" : "HOLBEIN HOUSE",
+				
+				
+				
 				"RandomString" : "903Q7021I68783SX"
 			}
 		},
@@ -3264,11 +3264,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SOUTHWELL HALL",
+				
 				"Shape_Leng" : 136.549376036,
 				"Shape_Area" : 830.995667748,
-				"No" : 7,
-				"Building" : "SOUTHWELL HALL",
+				
+				
 				"RandomString" : "478K7669W39957CU"
 			}
 		},
@@ -3288,11 +3288,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "WILLIS JACKSON HALL",
+				
 				"Shape_Leng" : 131.697850661,
 				"Shape_Area" : 865.055087744,
-				"No" : 8,
-				"Building" : "WILLIS JACKSON HALL",
+				
+				
 				"RandomString" : "753J5378A59158WD"
 			}
 		},
@@ -3342,12 +3342,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BERNARD SUNLEY",
+				
 				"Shape_Leng" : 188.31288486,
 				"Shape_Area" : 905.108560023,
-				"RandomStri" : "891O9568S62061EC",
-				"No" : 101,
-				"Building" : "BERNARD SUNLEY",
+				
+				
+				
 				"RandomString" : "891O9568S62061EC"
 			}
 		},
@@ -3393,12 +3393,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "FISHER HALL",
+				
 				"Shape_Leng" : 206.210936471,
 				"Shape_Area" : 968.032118608,
-				"RandomStri" : "277V5668O50666RF",
-				"No" : 115,
-				"Building" : "FISHER HALL",
+				
+				
+				
 				"RandomString" : "277V5668O50666RF"
 			}
 		},
@@ -3445,12 +3445,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "D BLOCK",
+				
 				"Shape_Leng" : 135.720392298,
 				"Shape_Area" : 532.224978919,
-				"RandomStri" : "816M2218U13222UY",
-				"No" : 111,
-				"Building" : "D BLOCK",
+				
+				
+				
 				"RandomString" : "816M2218U13222UY"
 			}
 		},
@@ -3472,12 +3472,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "D BLOCK NORTH",
+				
 				"Shape_Leng" : 59.3736369729,
 				"Shape_Area" : 178.285114616,
-				"RandomStri" : "328G1479G25979NY",
-				"No" : 112,
-				"Building" : "D BLOCK NORTH",
+				
+				
+				
 				"RandomString" : "328G1479G25979NY"
 			}
 		},
@@ -3501,11 +3501,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "GARRY WESTON CENTRE",
+				
 				"Shape_Leng" : 92.2258674021,
 				"Shape_Area" : 493.972274034,
-				"No" : 117,
-				"Building" : "GARRY WESTON CENTRE",
+				
+				
 				"RandomString" : "352Z7986V95385UV"
 			}
 		},
@@ -3528,12 +3528,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "LONDON INSTITUTE OF MEDICAL SCIENCES",
+				
 				"Shape_Leng" : 166.013101259,
 				"Shape_Area" : 1071.0709669,
-				"RandomStri" : "894R6923I64856CB",
-				"No" : 122,
-				"Building" : "LONDON INSTITUTE OF MEDICAL SCIENCES",
+				
+				
+				
 				"RandomString" : "894R6923I64856CB"
 			}
 		},
@@ -3554,12 +3554,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "NORTH CORRIDOR",
+				
 				"Shape_Leng" : 83.6969210297,
 				"Shape_Area" : 315.780330694,
-				"RandomStri" : "504D7458O21208HX",
-				"No" : 126,
-				"Building" : "NORTH CORRIDOR",
+				
+				
+				
 				"RandomString" : "504D7458O21208HX"
 			}
 		},
@@ -3580,12 +3580,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "QC ENERGY CENTRE",
+				
 				"Shape_Leng" : 53.4263097758,
 				"Shape_Area" : 157.765237077,
-				"RandomStri" : "660B3394R46600JJ",
-				"No" : 130,
-				"Building" : "QC ENERGY CENTRE",
+				
+				
+				
 				"RandomString" : "660B3394R46600JJ"
 			}
 		},
@@ -3612,12 +3612,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "QUEEN CHARLOTTES AND CHELSEA HOSPITAL",
+				
 				"Shape_Leng" : 198.846427073,
 				"Shape_Area" : 2058.54680235,
-				"RandomStri" : "547N7496T22543QJ",
-				"No" : 131,
-				"Building" : "QUEEN CHARLOTTES AND CHELSEA HOSPITAL",
+				
+				
+				
 				"RandomString" : "547N7496T22543QJ"
 			}
 		},
@@ -3638,12 +3638,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "RADIOTHERAPY CENTRE",
+				
 				"Shape_Leng" : 67.4113900879,
 				"Shape_Area" : 216.088714792,
-				"RandomStri" : "308M2423G94079TM",
-				"No" : 133,
-				"Building" : "RADIOTHERAPY CENTRE",
+				
+				
+				
 				"RandomString" : "308M2423G94079TM"
 			}
 		},
@@ -3662,12 +3662,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "STORES",
+				
 				"Shape_Leng" : 150.762828279,
 				"Shape_Area" : 1412.75914857,
-				"RandomStri" : "502S2628X43751WK",
-				"No" : 137,
-				"Building" : "STORES",
+				
+				
+				
 				"RandomString" : "502S2628X43751WK"
 			}
 		},
@@ -3688,12 +3688,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "U BLOCK",
+				
 				"Shape_Leng" : 102.289193008,
 				"Shape_Area" : 532.450050439,
-				"RandomStri" : "379L2376E93059YT",
-				"No" : 139,
-				"Building" : "U BLOCK",
+				
+				
+				
 				"RandomString" : "379L2376E93059YT"
 			}
 		},
@@ -3712,11 +3712,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "GATE HOUSE - SK",
+				
 				"Shape_Leng" : 12.5542634884,
 				"Shape_Area" : 9.67168923048,
-				"No" : 66,
-				"Building" : "GATE HOUSE - SK",
+				
+				
 				"RandomString" : "899F8108S54638FR"
 			}
 		},
@@ -3735,12 +3735,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "GATE HOUSE - WC",
+				
 				"Shape_Leng" : 22.7425379874,
 				"Shape_Area" : 21.2495691095,
-				"RandomStri" : "900U2202M10276EI",
-				"No" : 91,
-				"Building" : "GATE HOUSE - WC",
+				
+				
+				
 				"RandomString" : "900U2202M10276EI"
 			}
 		},
@@ -3774,11 +3774,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BLOCK A",
+				
 				"Shape_Leng" : 125.955339356,
 				"Shape_Area" : 704.072771962,
-				"No" : 3,
-				"Building" : "BLOCK A",
+				
+				
 				"RandomString" : "410G9178L89005DO"
 			}
 		},
@@ -3815,12 +3815,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BLOCK B",
+				
 				"Shape_Leng" : 139.515861729,
 				"Shape_Area" : 757.591851059,
-				"RandomStri" : "720Q9949B99074UM",
-				"No" : 4,
-				"Building" : "BLOCK B",
+				
+				
+				
 				"RandomString" : "720Q9949B99074UM"
 			}
 		},
@@ -3856,12 +3856,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "BLOCK C",
+				
 				"Shape_Leng" : 116.481825575,
 				"Shape_Area" : 584.010688623,
-				"RandomStri" : "663D1223L93386RQ",
-				"No" : 5,
-				"Building" : "BLOCK C",
+				
+				
+				
 				"RandomString" : "663D1223L93386RQ"
 			}
 		},
@@ -3880,11 +3880,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "SPARS",
+				
 				"Shape_Leng" : 22.4130222981,
 				"Shape_Area" : 31.0698183967,
-				"No" : 49,
-				"Building" : "SPARS",
+				
+				
 				"RandomString" : "380Y8083O96437DG"
 			}
 		},
@@ -3912,11 +3912,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "WILSON HOUSE",
+				
 				"Shape_Leng" : 256.780206271,
 				"Shape_Area" : 2288.97180533,
-				"No" : 89,
-				"Building" : "WILSON HOUSE",
+				
+				
 				"RandomString" : "593L8144Y17898SC"
 			}
 		},
@@ -3935,11 +3935,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "CHAPEL",
+				
 				"Shape_Leng" : 28.7323100432,
 				"Shape_Area" : 50.9787198917,
-				"No" : 103,
-				"Building" : "CHAPEL",
+				
+				
 				"RandomString" : "155E7040U70176ZO"
 			}
 		},
@@ -3960,11 +3960,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot R",
+				
 				"Shape_Leng" : 152.68574961,
 				"Shape_Area" : 1153.10550294,
-				"No" : 155,
-				"Building" : "Plot R",
+				
+				
 				"RandomString" : "349J2799N33231ME"
 			}
 		},
@@ -3985,11 +3985,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot R",
+				
 				"Shape_Leng" : 152.68574961,
 				"Shape_Area" : 1153.10550294,
-				"No" : 155,
-				"Building" : "Plot R",
+				
+				
 				"RandomString" : "349J2799N33231ME"
 			}
 		},
@@ -4008,12 +4008,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot Q",
+				
 				"Shape_Leng" : 240.908869488,
 				"Shape_Area" : 3604.93955525,
-				"RandomStri" : "390Q9516P32364LX",
-				"No" : 154,
-				"Building" : "Plot Q",
+				
+				
+				
 				"RandomString" : "390Q9516P32364LX"
 			}
 		},
@@ -4032,12 +4032,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot H3",
+				
 				"Shape_Leng" : 166.025337701,
 				"Shape_Area" : 1713.80803209,
-				"RandomStri" : "897I2401D13427MI",
-				"No" : 144,
-				"Building" : "Plot H3",
+				
+				
+				
 				"RandomString" : "897I2401D13427MI"
 			}
 		},
@@ -4056,11 +4056,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot I",
+				
 				"Shape_Leng" : 209.757891311,
 				"Shape_Area" : 2582.31658094,
-				"No" : 145,
-				"Building" : "Plot I",
+				
+				
 				"RandomString" : "783L2175D22855YD"
 			}
 		},
@@ -4079,12 +4079,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot J",
+				
 				"Shape_Leng" : 208.508830417,
 				"Shape_Area" : 2710.09961224,
-				"RandomStri" : "146C9893M50317CV",
-				"No" : 146,
-				"Building" : "Plot J",
+				
+				
+				
 				"RandomString" : "146C9893M50317CV"
 			}
 		},
@@ -4103,12 +4103,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot K",
+				
 				"Shape_Leng" : 233.712729833,
 				"Shape_Area" : 3396.74859891,
-				"RandomStri" : "811T9206D97123OP",
-				"No" : 147,
-				"Building" : "Plot K",
+				
+				
+				
 				"RandomString" : "811T9206D97123OP"
 			}
 		},
@@ -4127,11 +4127,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot N",
+				
 				"Shape_Leng" : 222.036365748,
 				"Shape_Area" : 2924.38779043,
-				"No" : 151,
-				"Building" : "Plot N",
+				
+				
 				"RandomString" : "243H3318L13656KP"
 			}
 		},
@@ -4150,12 +4150,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot O",
+				
 				"Shape_Leng" : 254.437228746,
 				"Shape_Area" : 3790.08261989,
-				"RandomStri" : "698A4103F60202SJ",
-				"No" : 152,
-				"Building" : "Plot O",
+				
+				
+				
 				"RandomString" : "698A4103F60202SJ"
 			}
 		},
@@ -4177,12 +4177,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot S",
+				
 				"Shape_Leng" : 222.228925408,
 				"Shape_Area" : 1823.33037298,
-				"RandomStri" : "892Q5747S72515ZV",
-				"No" : 156,
-				"Building" : "Plot S",
+				
+				
+				
 				"RandomString" : "892Q5747S72515ZV"
 			}
 		},
@@ -4202,12 +4202,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot L",
+				
 				"Shape_Leng" : 0,
 				"Shape_Area" : 0,
-				"RandomStri" : "386T7001B23097PD",
-				"No" : 148,
-				"Building" : "Plot L",
+				
+				
+				
 				"RandomString" : "386T7001B23097PD"
 			}
 		},
@@ -4226,12 +4226,12 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Building G",
+				
 				"Shape_Leng" : 0,
 				"Shape_Area" : 0,
-				"RandomStri" : "476H3245T54904VQ",
-				"No" : 142,
-				"Building" : "Building G",
+				
+				
+				
 				"RandomString" : "476H3245T54904VQ"
 			}
 		},
@@ -4254,11 +4254,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot M",
+				
 				"Shape_Leng" : 413.052398081,
 				"Shape_Area" : 3662.09803047,
-				"No" : 149,
-				"Building" : "Plot M1",
+				
+				
 				"RandomString" : "681X6887S11717IY"
 			}
 		},
@@ -4281,11 +4281,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot P",
+				
 				"Shape_Leng" : 0,
 				"Shape_Area" : 0,
-				"No" : 153,
-				"Building" : "Plot P - Principal Academic Building",
+				
+				
 				"RandomString" : "794E2310K27996TK"
 			}
 		},
@@ -4304,11 +4304,11 @@
 				]
 			},
 			"properties" : {
-				"Name" : "Plot H1",
+				
 				"Shape_Leng" : 100.422668441,
 				"Shape_Area" : 587.117908543,
-				"No" : 143,
-				"Building" : "Plot H1/H2",
+				
+				
 				"RandomString" : "426D1026C44520TC"
 			}
 		}
